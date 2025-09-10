@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Budi Update",
+      "username": "budisant",
+      "email": "budi.santoso@example.com",
+      "phone": "081234567890",
+      "website": "budisantoso.id"
+    },
+    {
+      "id": "2",
+      "name": "Siti Aminah",
+      "username": "sitiaminah",
+      "email": "siti.aminah@example.com",
+      "phone": "081298765432",
+      "website": "sitiaminah.com"
+    },
+    {
+      "id": "3",
+      "name": "Andi Wijaya",
+      "username": "andiwijaya",
+      "email": "andi.wijaya@example.com",
+      "phone": "085612345678",
+      "website": "andiwijaya.net"
+    },
+    {
+      "id": "4",
+      "name": "Dewi Lestari",
+      "username": "dewi.lestari",
+      "email": "dewi.lestari@example.com",
+      "phone": "081377788899",
+      "website": "dewilestari.org"
+    },
+    {
+      "id": "5",
+      "name": "Rizky Pratama",
+      "username": "rizkyprtm",
+      "email": "rizky.pratama@example.com",
+      "phone": "082199988877",
+      "website": "rizkypratama.id"
+    },
+    {
+      "id": "6",
+      "name": "Ahmad Fauzi",
+      "username": "ahmadfauzi",
+      "email": "ahmad.fauzi@example.com",
+      "phone": "085233344455",
+      "website": "ahmadfauzi.com"
+    },
+    {
+      "id": "7",
+      "name": "Putri Maharani",
+      "username": "putrimhrn",
+      "email": "putri.maharani@example.com",
+      "phone": "081244433322",
+      "website": "putrimaharani.my.id"
+    },
+    {
+      "id": "8",
+      "name": "Yusuf Hidayat",
+      "username": "yusufhdy",
+      "email": "yusuf.hidayat@example.com",
+      "phone": "082144455566",
+      "website": "yusufhidayat.dev"
+    },
+    {
+      "id": "9",
+      "name": "Mega Anjani",
+      "username": "megaanjani",
+      "email": "mega.anjani@example.com",
+      "phone": "085611122233",
+      "website": "megaanjani.co.id"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+    /* tbody tr:nth-child(odd) {
+        @apply bg-gray-200
+    } */
+    
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+}

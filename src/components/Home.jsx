@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import Button from "./Elements/Button/Button";
-import Input from "./Elements/Input/Input";
+import Button from "../Elements/Button/Button";
+import Input from "../Elements/Input/Input";
 
 function Home() {
   const [data, setData] = useState([]);

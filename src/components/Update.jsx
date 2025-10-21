@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import InputContainer from "./Elements/Input/InputContainer";
-import Button from "./Elements/Button/Button";
+import InputContainer from "../Elements/Input/InputContainer";
+import Button from "../Elements/Button/Button";
 
 function Update() {
   const { id } = useParams();

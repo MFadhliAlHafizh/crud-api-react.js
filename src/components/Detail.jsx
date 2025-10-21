@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
-import Button from "./Elements/Button/Button";
+import Button from "../Elements/Button/Button";
 
 function Detail() {
   const [data, setData] = useState({});

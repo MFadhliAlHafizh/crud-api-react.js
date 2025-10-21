@@ -2,11 +2,11 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Error404Page from './Error404Page.jsx';
-import Home from './Home.jsx';
-import Create from './Create.jsx';
-import Update from './Update.jsx';
-import Detail from './Detail.jsx';
+import Error404Page from './components/Error404Page.jsx';
+import Home from './components/Home.jsx';
+import Create from './components/Create.jsx';
+import Update from './components/Update.jsx';
+import Detail from './components/Detail.jsx';
 
 const router = createBrowserRouter([
   {
